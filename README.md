@@ -10,9 +10,15 @@ I am practicing the following skills:
 
   - #### Code Editor
     - vim
+    - VS Code
+    - Visual Studio 2022
+    - PyCharm
+  
   - #### Language
     - python
     - django
+    - C#
+
   - #### Database
     - MariaDB
   - #### Server
