@@ -4,11 +4,11 @@
 
 </div>
 
-<h3> Non-developers studying development </h3>
+<h3> I am Non-developer who studying development </h3>
 
 I am practicing the following skills:
 
-  - #### Code Editor
+  - #### Code Editor/ IDE
     - vim
     - VS Code
     - Visual Studio 2022
