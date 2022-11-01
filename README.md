@@ -52,6 +52,7 @@ Lv1 => I'm interested
   - Jenkins
   - Pigma
   - Kubernetes
+  - Svelte
 
 
 
