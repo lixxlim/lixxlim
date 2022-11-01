@@ -24,8 +24,6 @@ Lv3 => I have some experience
   - vim editor
   - ubuntu 22.04.1
   - MariaDB
-  - VS Code
-  - Visual Studio 2022
   - synology NAS
   - Oracle Cloud Server
   - Google Cloud Platform(GCP)
@@ -37,16 +35,15 @@ Lv2 => I have experience in basic usage
   - css
   - javascript
   - React.js
-  - PyCharm
   - Alpine linux
   - nginx
   - gunicorn
   - AdobeXD
+  - VS code
 
 Lv1 => I'm interested
-  - Node.js
-  - Express.js
-  - Next.js
+  - Node.js with express
+  - React.js with Next.js
   - python with FastAPI
   - python with flask
   - Jenkins
@@ -54,6 +51,9 @@ Lv1 => I'm interested
   - Kubernetes
   - Svelte
   - PostgreSQL
+  - C++
+  - Electron
+  - Rust
 
 
 
