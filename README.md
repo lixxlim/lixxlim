@@ -39,7 +39,6 @@ Lv2 => I tried the basics
   - React.js
   - PyCharm
   - Alpine linux
-  - docker
   - nginx
   - gunicorn
   - AdobeXD
@@ -52,6 +51,7 @@ Lv1 => I'm interested
   - python with flask
   - Jenkins
   - Pigma
+  - Kubernetes
 
 
 
