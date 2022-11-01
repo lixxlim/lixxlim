@@ -19,7 +19,7 @@ Lv4 => I have junior level experience
   - C# with winform
   - python with django
   
-Lv3 => I have experience little bit
+Lv3 => I have experience a little
   - git with github
   - vim editor
   - ubuntu 22.04.1
@@ -32,7 +32,7 @@ Lv3 => I have experience little bit
   - docker
   - Visual basic for Application(VBA)
 
-Lv2 => I tried the basics
+Lv2 => I have experience in basic usage
   - html
   - css
   - javascript
