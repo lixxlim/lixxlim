@@ -8,26 +8,50 @@
 
 I am practicing the following skills:
 
-  - #### Code Editor/ IDE
-    - vim
-    - VS Code
-    - Visual Studio 2022
-    - PyCharm
-  
-  - #### Language
-    - python
-    - django
-    - C#
+Lv6 => I have senior level experience
+  - not have yet
 
-  - #### Database
-    - MariaDB
-  - #### Server
-    - Oracle Cloud
-    - synology NAS
-  - #### ServerOS
-    - ubuntu 22.04.1
-  - #### Operation tools
-    - docker with alpine linux
-    - nginx
-    - gunicorn
+Lv5 => I have intermediate level experience
+  - not have yet
+
+Lv4 => I have junior level experience
+  - MSSQL
+  - C# with winform
+  - python with django
+  
+Lv3 => I have experience little bit
+  - git with github
+  - vim editor
+  - ubuntu 22.04.1
+  - MariaDB
+  - VS Code
+  - Visual Studio 2022
+  - synology NAS
+  - Oracle Cloud Server
+  - Google Cloud Platform(GCP)
+  - docker
+  - Visual basic for Application(VBA)
+
+Lv2 => I tried the basics
+  - html
+  - css
+  - javascript
+  - React.js
+  - PyCharm
+  - Alpine linux
+  - docker
+  - nginx
+  - gunicorn
+  - AdobeXD
+
+Lv1 => I'm interested
+  - Node.js
+  - Express.js
+  - Next.js
+  - python with FastAPI
+  - python with flask
+  - Jenkins
+  - Pigma
+
+
 
