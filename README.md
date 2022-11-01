@@ -19,7 +19,7 @@ Lv4 => I have junior level experience
   - C# with winform
   - python with django
   
-Lv3 => I have experience a little
+Lv3 => I have some experience
   - git with github
   - vim editor
   - ubuntu 22.04.1
