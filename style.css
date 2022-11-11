@@ -1,17 +1,28 @@
 * {margin:0px;padding:0px;}
 
 .header {
+	background-color:#f00;
     display:flex;
-    position:absolute;
+	padding:10px;
+	height:100px;
 }
 
 .header .title {
-    position:relative;
+	width:30%;
+	background-color:#0f0;
 }
 
 .header .nav {
-    display:flex;
-    position:relative;
+	background-color:#00f;
+	width:70%;
+}
+
+.header .nav ul {
+	display:flex;
+}
+
+.header .nav ul li {
+
 }
 
 .body {
