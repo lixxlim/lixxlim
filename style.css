@@ -7,16 +7,15 @@
 
 .header .title {
     position:relative;
-    left:10px;
 }
 
 .header .nav {
+    display:flex;
     position:relative;
-    right:10px;
 }
 
 .body {
-
+    display:flex;
 }
 
 .body .nav {
