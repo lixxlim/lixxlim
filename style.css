@@ -1,0 +1,36 @@
+* {margin:0px;padding:0px;}
+
+.header {
+    display:flex;
+    position:absolute;
+}
+
+.header .title {
+    position:relative;
+    left:10px;
+}
+
+.header .nav {
+    position:relative;
+    right:10px;
+}
+
+.body {
+
+}
+
+.body .nav {
+
+}
+
+.body .contents {
+
+}
+
+.body .contents .content {
+
+}
+
+.footer {
+
+}
