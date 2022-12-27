@@ -1,3 +1,8 @@
+:root {
+	--point-color:#FFFD00;
+	--secondary-color:#F9F871;
+}
+
 .nav-links {
 	color:#fff;
 }
@@ -6,6 +11,11 @@
 	color:#808080;
 }
 
-.nav-links-active {
-	color:#f00;
+.point-color {
+	color:var(--point-color);
+	font-weight:bold;
+}
+
+.second-color {
+	color:var(--secondary-color);
 }
