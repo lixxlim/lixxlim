@@ -18,36 +18,36 @@ Lv4 => I have junior level experience
   - MSSQL
   - C# with winform
   - python with django
+  - React.js
+  - vim editor
+  - synology NAS
   
 Lv3 => I have some experience
   - git with github
-  - vim editor
   - ubuntu 22.04.1
   - MariaDB
-  - synology NAS
   - Oracle Cloud Server
   - Google Cloud Platform(GCP)
   - docker
   - Visual basic for Application(VBA)
-
-Lv2 => I have experience in basic usage
   - html
   - css
   - javascript
-  - React.js
+
+Lv2 => I have experience in basic usage
   - Alpine linux
   - nginx
   - gunicorn
   - AdobeXD
   - VS code
+  - Node.js with express
+  - Pigma
 
 Lv1 => I'm interested
-  - Node.js with express
   - React.js with Next.js
   - python with FastAPI
   - python with flask
   - Jenkins
-  - Pigma
   - Kubernetes
   - Svelte
   - PostgreSQL
