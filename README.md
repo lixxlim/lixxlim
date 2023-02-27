@@ -6,5 +6,5 @@
 
 <h3> I am Non-developer who studying development </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LiS2Lim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LiS2Lim)](https://github.com/anuraghazra/github-readme-stats)
 
