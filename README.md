@@ -6,54 +6,5 @@
 
 <h3> I am Non-developer who studying development </h3>
 
-I am practicing the following skills:
-
-Lv6 => I have senior level experience
-  - not have yet
-
-Lv5 => I have intermediate level experience
-  - not have yet
-
-Lv4 => I have junior level experience
-  - MSSQL
-  - C# with winform
-  - python with django
-  - React.js
-  - vim editor
-  - synology NAS
-  
-Lv3 => I have some experience
-  - git with github
-  - ubuntu 22.04.1
-  - MariaDB
-  - Oracle Cloud Server
-  - Google Cloud Platform(GCP)
-  - docker
-  - Visual basic for Application(VBA)
-  - html
-  - css
-  - javascript
-
-Lv2 => I have experience in basic usage
-  - Alpine linux
-  - nginx
-  - gunicorn
-  - AdobeXD
-  - VS code
-  - Node.js with express
-  - Pigma
-
-Lv1 => I'm interested
-  - React.js with Next.js
-  - python with FastAPI
-  - python with flask
-  - Jenkins
-  - Kubernetes
-  - Svelte
-  - PostgreSQL
-  - C++
-  - Electron
-  - Rust
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiS2Lim)](https://github.com/anuraghazra/github-readme-stats)
 
