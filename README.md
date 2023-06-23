@@ -59,15 +59,19 @@
   <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Intellij-007ACC?style=for-the-badge&logo=intellijidea&logoColor=white">
 
+  <h5> ・Server side</h6>
+  <img src="https://img.shields.io/badge/Ubuntu-181717?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Nginx-181717?style=for-the-badge&logo=nginx&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Synology-181717?style=for-the-badge&logo=synology&logoColor=white"> 
+
+  <h5> ・Design</h6>
+  <img src="https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=figma&logoColor=white"> 
+  
   <h5> ・Others</h6>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Ubuntu-181717?style=for-the-badge&logo=ubuntu&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Synology-181717?style=for-the-badge&logo=synology&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Nginx-181717?style=for-the-badge&logo=nginx&logoColor=white"> 
   <img src="https://img.shields.io/badge/trello-181717?style=for-the-badge&logo=trello&logoColor=white"> 
   <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"> 
-  <img src="https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=figma&logoColor=white"> 
   
 </div></br></br></br>
 
