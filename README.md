@@ -54,8 +54,8 @@
   <h5> ・IDE, Editor</h6>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> 
   <img src="https://img.shields.io/badge/Vim-007ACC?style=for-the-badge&logo=vim&logoColor=white">
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Intellij-007ACC?style=for-the-badge&logo=intellijidea&logoColor=white">
 
   <h5> ・Server side</h6>
