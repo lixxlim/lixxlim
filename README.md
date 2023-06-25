@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/VBA-3776AB?style=for-the-badge&logo=microsoftexcel&logoColor=white"> 
   
   <h5> ・Database</h6>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/SQLServer-F80000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
   <img src="https://img.shields.io/badge/PostgreSQL-F80000?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <img src="https://img.shields.io/badge/MariaDB-F80000?style=for-the-badge&logo=mariadb&logoColor=white"> 
