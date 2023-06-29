@@ -77,5 +77,5 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
-  <h4> 1Z0-818-JPN Java SE Bronze (6/22/2023) </h4>
+  <h4> 6/22/2023 | Oracle Certified Java Programmer Bronze SE (1Z0-818-JPN) </h4>
 </div>
