@@ -7,12 +7,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Eunchong,&nbsp;LIM)
 
-<h1 > I am working as a back-end developer </h1>
+<h1 > I am working as a Junior developer </h1>
 
 <!-- Chart Display -->
-<div align=center>
+<div align=left>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LiS2Lim&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LiS2Lim&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
+  [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=LiS2Lim&card_width=550&show_icons=true&theme=radical)](https://github.com/LiS2Lim)
   
 </div></br></br></br>
 
