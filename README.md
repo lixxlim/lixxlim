@@ -52,13 +52,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-F80000?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <img src="https://img.shields.io/badge/MariaDB-F80000?style=for-the-badge&logo=mariadb&logoColor=white"> 
   
-  <h5> ・IDE, Editor</h6>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Vim-007ACC?style=for-the-badge&logo=vim&logoColor=white">
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/Intellij-007ACC?style=for-the-badge&logo=intellijidea&logoColor=white">
-
   <h5> ・Server side</h6>
   <img src="https://img.shields.io/badge/Ubuntu-181717?style=for-the-badge&logo=ubuntu&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white"> 
@@ -81,4 +74,10 @@
   <h4> 8/5/2023 | Oracle Certified Java Programmer, Gold SE 11 (1Z0-816-JPN) </h4>
   <h4> 7/8/2023 | Oracle Certified Java Programmer, Silver SE 11 (1Z0-815-JPN) </h4>
   <h4> 6/22/2023 | Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN) </h4>
+</div></br></br></br>
+
+<div>
+  <h2> solved.ac(Online Judge) active records </h2>
+  
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=s2alua&theme=dark)
 </div>
