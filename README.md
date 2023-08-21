@@ -77,7 +77,7 @@
 </div></br></br></br>
 
 <div>
-  <h2> solved.ac(Online Judge) active records </h2>
+  <h2> solved.ac(Online-Judge site) activity records </h2>
   
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=s2alua&theme=dark)
 </div>
