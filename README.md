@@ -71,9 +71,9 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
-  <h4> 8/5/2023 | Oracle Certified Java Programmer, Gold SE 11 (1Z0-816-JPN) </h4>
-  <h4> 7/8/2023 | Oracle Certified Java Programmer, Silver SE 11 (1Z0-815-JPN) </h4>
-  <h4> 6/22/2023 | Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN) </h4>
+  <div> 8/5/2023 | Oracle Certified Java Programmer, Gold SE 11 (1Z0-816-JPN) </div>
+  <div> 7/8/2023 | Oracle Certified Java Programmer, Silver SE 11 (1Z0-815-JPN) </div>
+  <div> 6/22/2023 | Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN) </div>
 </div></br></br></br>
 
 <div>
