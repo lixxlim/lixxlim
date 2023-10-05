@@ -71,6 +71,7 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 9/27/2023 | ウェブデザイン技能検定3級 </div>
   <div> 8/5/2023 | Oracle Certified Java Programmer, Gold SE 11 (1Z0-816-JPN) </div>
   <div> 7/8/2023 | Oracle Certified Java Programmer, Silver SE 11 (1Z0-815-JPN) </div>
   <div> 6/22/2023 | Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN) </div>
