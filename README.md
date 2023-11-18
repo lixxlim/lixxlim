@@ -71,6 +71,8 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 10/16/2023 | 基本情報技術者 </div>
+  <div> 10/16/2023 | ITパスポート </div>
   <div> 10/14/2023 | AWS Certified Solutions Architect - Associate (SAA-03) </div>
   <div> 09/27/2023 | ウェブデザイン技能検定3級 </div>
   <div> 08/05/2023 | Oracle Certified Java Programmer, Gold SE 11 (1Z0-816-JPN) </div>
