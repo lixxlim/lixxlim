@@ -71,7 +71,7 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
-  <div> 12/09/2023 | Microsoft Certified: Azure Fundamentals </div>
+  <div> 12/09/2023 | Microsoft Certified: Azure Fundamentals (AZ-900) </div>
   <div> 10/16/2023 | 情報セキュリティーマネジメント </div>
   <div> 10/16/2023 | ITパスポート </div>
   <div> 10/14/2023 | AWS Certified Solutions Architect - Associate (SAA-03) </div>
