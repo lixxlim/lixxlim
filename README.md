@@ -71,9 +71,11 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 12/25/2023 | ウェブデザイン技能検定2級 </div>
+  <div> 12/14/2023 | 基本情報技術者(FE) </div>
   <div> 12/09/2023 | Microsoft Certified: Azure Fundamentals (AZ-900) </div>
   <div> 10/16/2023 | 情報セキュリティーマネジメント </div>
-  <div> 10/16/2023 | ITパスポート </div>
+  <div> 10/16/2023 | ITパスポート(IT) </div>
   <div> 10/14/2023 | AWS Certified Solutions Architect - Associate (SAA-03) </div>
   <div> 09/27/2023 | ウェブデザイン技能検定3級 </div>
   <div> 08/05/2023 | Oracle Certified Java Programmer, Gold SE 11 (1Z0-816-JPN) </div>
