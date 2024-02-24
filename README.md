@@ -82,12 +82,4 @@
   <div> 08/05/2023 | Oracle Certified Java Programmer, Gold SE 11 (1Z0-816-JPN) </div>
   <div> 07/08/2023 | Oracle Certified Java Programmer, Silver SE 11 (1Z0-815-JPN) </div>
   <div> 06/22/2023 | Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN) </div>
-</div></br></br></br>
-
-<div>
-  <h2> solved.ac(Online-Judge site) activity records <span>→ <a href="https://github.com/LiS2Lim/baekjoon-algorithm">Repository</a></span></h2>
-  
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=s2alua&theme=dark)
-
-  
 </div>
