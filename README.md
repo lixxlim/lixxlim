@@ -71,6 +71,7 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 02/25/2024 | OSS-DB Silver </div>
   <div> 02/09/2024 | C言語プログラミング能力認定試験3級 </div>
   <div> 12/25/2023 | ウェブデザイン技能検定2級 </div>
   <div> 12/14/2023 | 基本情報技術者(FE) </div>
