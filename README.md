@@ -71,6 +71,7 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 06/30/2024 | AI実装検定Ｂ級 </div>
   <!-- <div> 06/16/2024 | C言語プログラミング能力認定試験1級 </div> -->
   <div> 06/01/2024 | Python3エンジニア認定基礎試験 </div>
   <div> 02/25/2024 | OSS-DB Silver </div>
