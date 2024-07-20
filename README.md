@@ -29,44 +29,47 @@
 <!-- Skills -->
 <div>
   <h2> I have experience of following skills :</h2>
-  <h5> ・Web Front-end</h6>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white">
+  <h5> ・Programming Languages </h5>
   
-  <h5> ・Web Back-end</h6>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Nodejs-3776AB?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+| Java | Kotlin | Python | Javascrpit | C | C++ | C# | GO | Rust |
+|:----:|:------:|:------:|:--:|:-:|:---:|:--:|:--:|:----:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="70" height="55"/>  | 
 
-  <h5> ・Desktop Application</h6>
-  <img src="https://img.shields.io/badge/Csharp-3776AB?style=for-the-badge&logo=csharp&logoColor=white"> 
-  <img src="https://img.shields.io/badge/VBA-3776AB?style=for-the-badge&logo=microsoftexcel&logoColor=white"> 
-  
-  <h5> ・Database</h6>
-  <img src="https://img.shields.io/badge/SQLServer-F80000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-F80000?style=for-the-badge&logo=postgresql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MariaDB-F80000?style=for-the-badge&logo=mariadb&logoColor=white"> 
-  
-  <h5> ・Server side</h6>
-  <img src="https://img.shields.io/badge/Ubuntu-181717?style=for-the-badge&logo=ubuntu&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Nginx-181717?style=for-the-badge&logo=nginx&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Synology-181717?style=for-the-badge&logo=synology&logoColor=white"> 
+  <h5> ・Frameworks / Librarys </h5>
 
-  <h5> ・Design</h6>
-  <img src="https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=figma&logoColor=white"> 
+| Spring | .NET | Django | Nodejs | Express | React | Bootstrap | Nextjs | Nestjs |
+|:------:|:----:|:------:|:------:|:-----:|:---------:|:------:|:------:|:-------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET"  alt=".NET" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs"  alt="Nodejs" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="70" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs"  alt="Nestjs" width="70" height="55"/>  |
+
   
-  <h5> ・Others</h6>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/trello-181717?style=for-the-badge&logo=trello&logoColor=white"> 
-  <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"> 
+  <h5> ・Database</h5>
+
+| SQLServer | PostgreSQL | MariaDB | OracleDB | SQLite |
+|:---------:|:----------:|:-------:|:--------:|:------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQLServer"  alt="SQLServer" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB"  alt="MariaDB" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleDB"  alt="OracleDB" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="70" height="55"/>  | 
+
   
-</div></br></br></br>
+  <h5> ・Server OS</h5>
+
+| Ubuntu | CentOS | Raspbian |
+|:------:|:------:|:--------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS"  alt="CentOS" width="70" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspbian"  alt="Raspbian" width="70" height="55"/> |
+
+
+  <h5> ・Middle Ware </h5>
+
+| Docker | Nginx |
+|:------:|:-----:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx"  alt="Nginx" width="70" height="55"/>  |
+
+  <h5> ・Tools </h5>
+
+| SVN | Git | Postman | Slack | Trello | Vim | 
+|:---:|:---:|:-------:|:-----:|:------:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="SVN"  alt="SVN" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello"  alt="Trello" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim"  alt="Vim" width="70" height="55"/>  |
+  
+  
+</div></br></br>
 
 <!-- Certifications -->  
 <div>
