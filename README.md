@@ -74,6 +74,7 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 07/28/2024 | LPIC Level 1 </div>
   <div> 06/30/2024 | AI実装検定Ｂ級 </div>
   <div> 06/28/2024 | C言語プログラミング能力認定試験1級 </div>
   <div> 06/01/2024 | Python3エンジニア認定基礎試験 </div>
