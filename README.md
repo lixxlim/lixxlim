@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align=right>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLiS2Lim%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flixlim0%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -12,8 +12,8 @@
 <!-- Chart Display -->
 <div align=left>
 
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LiS2Lim&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
-  [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=LiS2Lim&card_width=550&show_icons=true&theme=radical)](https://github.com/LiS2Lim)
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lixlim0&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
+  [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=lixlim0&card_width=550&show_icons=true&theme=radical)](https://github.com/lixlim0)
   
 </div></br></br></br>
 
@@ -66,7 +66,7 @@
 
 | SVN | Git | Postman | Slack | Trello | Vim | JMeter |
 |:---:|:---:|:-------:|:-----:|:------:|:---:|:------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="SVN"  alt="SVN" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello"  alt="Trello" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim"  alt="Vim" width="70" height="55"/>  | <img src="https://github.com/LiS2Lim/LiS2Lim/blob/main/assets/img/jmeter_square.svg" title="JMeter"  alt="JMeter" width="70" height="55"/>  |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="SVN"  alt="SVN" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello"  alt="Trello" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim"  alt="Vim" width="70" height="55"/>  | <img src="https://github.com/lixlim0/lixlim0/blob/main/assets/img/jmeter_square.svg" title="JMeter"  alt="JMeter" width="70" height="55"/>  |
   
   
 </div></br></br>
