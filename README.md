@@ -7,7 +7,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Eunchong,&nbsp;LIM)
 
-<h1 > I am working as a Junior developer </h1>
+<h1 > I am working as a Backend developer with Java Springboot </h1>
 
 <!-- Chart Display -->
 <div align=left>
