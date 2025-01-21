@@ -74,6 +74,9 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 01/19/2025 | Oracle Cloud Infrastructure 2024 Foundations Associate </div>
+  <div> 11/24/2025 | PHP技術者認定試験初級 </div>
+  <div> 11/09/2024 | JDLA Deep Learning For GENERAL </div>
   <div> 08/15/2024 | UMTPモデリング技能認定 L1 </div>
   <div> 07/28/2024 | LPIC Level 1 </div>
   <div> 06/30/2024 | AI実装検定Ｂ級 </div>
