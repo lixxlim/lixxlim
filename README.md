@@ -74,6 +74,7 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 05/25/2025 | AWS Certified Developer - Associate (DVA-C02) </div>
   <div> 01/19/2025 | Oracle Cloud Infrastructure 2024 Foundations Associate </div>
   <div> 11/24/2025 | PHP技術者認定試験初級 </div>
   <div> 11/09/2024 | JDLA Deep Learning For GENERAL </div>
