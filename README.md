@@ -31,23 +31,36 @@
   <h2> I have experience of following skills :</h2>
   <h5> ・Programming Languages </h5>
   
-| Java | Kotlin | Python | Javascrpit | C | C++ | C# | GO | Rust | Scala | Swift |
-|:----:|:------:|:------:|:----------:|:-:|:---:|:--:|:--:|:----:|:-----:|:-----:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="70" height="55"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="70" height="55"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="70" height="55"/>  |
+| Java | Python | Javascrpit | C | C# |
+|:----:|:------:|:----------:|:-:|:--:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="70" height="55"/>  | 
+<!-- 
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="70" height="55"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="55"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="70" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="70" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="70" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="70" height="55"/>
+-->
 
   <h5> ・Frameworks / Librarys </h5>
 
-| Spring | .NET | Django | Nodejs | Express | React | Bootstrap | Nextjs | Nestjs | Tailwind |
-|:------:|:----:|:------:|:------:|:-----:|:---------:|:------:|:------:|:-------:|:--------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET"  alt=".NET" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs"  alt="Nodejs" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="70" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs"  alt="Nestjs" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="70" height="55"/>  |
+| Spring | .NET | Django | Nodejs | Express | React | Bootstrap | Tailwind |
+|:------:|:----:|:------:|:------:|:-----:|:---------:|:------:|:--------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="70" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET"  alt=".NET" width="70" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="70" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs"  alt="Nodejs" width="70" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="70" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="70" height="55"/>  |
+<!-- 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="70" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs"  alt="Nestjs" width="70" height="55"/>
+-->
 
-  
   <h5> ・Database</h5>
 
-| SQLServer | PostgreSQL | MariaDB | OracleDB | SQLite |
-|:---------:|:----------:|:-------:|:--------:|:------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQLServer"  alt="SQLServer" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB"  alt="MariaDB" width="70" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleDB"  alt="OracleDB" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="70" height="55"/>  | 
-
+| SQLServer | PostgreSQL | MariaDB | SQLite |
+|:---------:|:----------:|:-------:|:------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQLServer"  alt="SQLServer" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB"  alt="MariaDB" width="70" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="70" height="55"/>  | 
+<!-- 
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleDB"  alt="OracleDB" width="70" height="55"/>
+-->
   
   <h5> ・Server OS</h5>
 
